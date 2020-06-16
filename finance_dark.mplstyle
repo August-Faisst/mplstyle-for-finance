@@ -1,0 +1,82 @@
+# To check more avaialble options see:
+# https://matplotlib.org/tutorials/introductory/customizing.html
+# path to this stylesheet: C:\Users\faiss\AppData\Local\Programs\Python\Python38\lib\site-packages\matplotlib\mpl-data\stylelib
+
+# FONT
+font.family         : sans-serif
+font.style          : normal
+font.weight         : 100
+text.color          : 6b698a
+
+# AXES
+axes.titlesize      : 14
+axes.titlelocation  : left
+axes.titleweight    : 600
+axes.titlecolor     : ffffff
+axes.titlepad       : 15
+axes.labelsize      : 7
+axes.edgecolor      : 2a2f40
+axes.labelcolor     : 6b698a
+axes.linewidth      : 0.1
+axes.spines.top     : False
+axes.spines.right   : False
+axes.spines.bottom  : False
+axes.spines.left    : False
+axes.facecolor      : 131722
+axes.xmargin        : .05
+axes.axisbelow      : True
+axes.formatter.limits: 0, 50000000000000
+
+# FIGURE
+figure.facecolor    : 131722
+figure.edgecolor    : 131722
+figure.figsize      : 12,20
+figure.subplot.hspace : 0
+
+
+# LINES
+axes.prop_cycle     : cycler('color', [ 'e33985', '00e2dc', '39e377', '7899cf', '8ea1bf'])
+lines.linewidth     : 0.5
+lines.markeredgewidth : 0.0
+markers.fillstyle   : full
+
+# SCATTER PLOT
+scatter.marker      : .
+
+# GRID
+axes.grid           : True
+grid.color          : 2a2f40
+grid.alpha          : 0.6
+grid.linestyle      : --
+grid.linewidth      : 0.4
+axes.grid.which     : both
+
+# TICKS
+xtick.labelsize     : 6
+xtick.color         : 504e6b
+xtick.direction     : in
+xtick.minor.visible : False
+xtick.major.size    : 0
+xtick.minor.size    : 0
+ytick.labelsize     : 6
+ytick.color         : 504e6b
+ytick.direction     : in
+ytick.minor.visible : False
+ytick.major.size    : 0
+ytick.minor.size    : 0
+
+# LEGEND
+legend.loc          : upper left
+legend.facecolor    : 2a2f40
+legend.fancybox     : False
+legend.frameon      : True
+legend.framealpha   : 0.3
+legend.edgecolor    : 2a2f40
+legend.fontsize     : 6
+legend.borderpad    : 1
+legend.borderaxespad : 5
+
+# FIGURE OUTPUT
+figure.figsize      : 7, 5
+figure.dpi          : 150
+savefig.dpi         : 200
