@@ -1,0 +1,1 @@
+# mplstyle-for-finance
