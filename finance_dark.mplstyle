@@ -1,6 +1,5 @@
 # To check more avaialble options see:
 # https://matplotlib.org/tutorials/introductory/customizing.html
-# path to this stylesheet: C:\Users\faiss\AppData\Local\Programs\Python\Python38\lib\site-packages\matplotlib\mpl-data\stylelib
 
 # FONT
 font.family         : sans-serif
